@@ -30,8 +30,6 @@ header h3{
     margin-top: 50px;
 }
 .half-width img{
-    border: 3px solid rgb(118, 21, 173);
-    border-radius: 40%;
     width: 300px;
     height: 300px;
 }
